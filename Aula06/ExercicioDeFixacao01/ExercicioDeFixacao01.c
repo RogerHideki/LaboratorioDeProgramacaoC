@@ -10,7 +10,7 @@ int main() {
     int i;
     char str[50];
 
-    fDados = fopen("dados.txt", "a");
+    fDados = fopen("../Aula06/ExercicioDeFixacao01/dados.txt", "a");
     if (fDados == NULL) {
         perror("Erro ao tentar abrir o arquivo\n");
         return (-1);
