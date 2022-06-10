@@ -1,4 +1,12 @@
-Allan | 123 | 123
-Roger | 123 | 123
-Marcos | 123 | 123
-Marcos | 123 | 123
+Roger
+18
+1000.00
+Pedro
+20
+3000.00
+Augusto
+19
+2000.00
+Ana
+17
+500.00
