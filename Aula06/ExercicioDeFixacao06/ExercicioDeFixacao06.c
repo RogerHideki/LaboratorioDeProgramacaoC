@@ -17,7 +17,7 @@ int main() {
     int i;
     bool flag;
 
-    /*fBolsista1 = fopen("../Aula06/ExercicioDeFixacao06/bolsista1.cad", "wb");
+    fBolsista1 = fopen("../Aula06/ExercicioDeFixacao06/bolsista1.cad", "wb");
     if (fBolsista1 == NULL) {
         perror("Erro ao tentar abrir o arquivo\n");
         return (-1);
@@ -59,19 +59,19 @@ int main() {
     for (i = 0; i < tam; i++) {
         printf("%d - %s - %d - %s\n", bolsista[i].codigo, bolsista[i].nome, bolsista[i].tipoBolsa, bolsista[i].email);
     }
-    fclose(fBolsista1);*/
+    fclose(fBolsista1);
 
-    fBolsista1 = fopen("../Aula06/ExercicioDeFixacao06/bolsista1.cad", "wb+");
+    fBolsista1 = fopen("../Aula06/ExercicioDeFixacao06/bolsista1.cad", "r+b");
     if (fBolsista1 == NULL) {
         perror("Erro ao tentar abrir o arquivo\n");
         return (-1);
     }
 
-    fseek(fBolsista1, sizeof(tBolsista)*2, SEEK_SET);
+    fseek(fBolsista1, sizeof(tBolsista) * 2, SEEK_SET);
     fread(&novoBolsista, sizeof(tBolsista), 1, fBolsista1);
     printf("Novo nome: ");
     scanf(" %[^\n]s", novoBolsista.nome);
-    fseek(fBolsista1, sizeof(tBolsista)*2, SEEK_SET);
+    fseek(fBolsista1, sizeof(tBolsista) * 2, SEEK_SET);
     fwrite(&novoBolsista, sizeof(tBolsista), 1, fBolsista1);
     fclose(fBolsista1);
 
