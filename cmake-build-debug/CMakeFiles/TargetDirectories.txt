@@ -48,5 +48,6 @@ C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug
 C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/CMakeFiles/Aula05ExercicioDeFixacao10.dir
 C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/CMakeFiles/Aula05ExercicioDeFixacao11.dir
 C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/CMakeFiles/Aula06ExercicioDeFixacao01.dir
+C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/CMakeFiles/Aula06ExercicioDeFixacao06.dir
 C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/CMakeFiles/rebuild_cache.dir

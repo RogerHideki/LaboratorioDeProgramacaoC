@@ -2017,6 +2017,46 @@
 					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Aula06ExercicioDeFixacao06">
+				<Option output="C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/Aula06ExercicioDeFixacao06.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aula06ExercicioDeFixacao06"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aula06ExercicioDeFixacao06/fast">
+				<Option output="C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/Aula06ExercicioDeFixacao06.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aula06ExercicioDeFixacao06/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug"/>
 				<Option type="4"/>
@@ -2187,6 +2227,9 @@
 		</Unit>
 		<Unit filename="C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/Aula06/ExercicioDeFixacao01/ExercicioDeFixacao01.c">
 			<Option target="Aula06ExercicioDeFixacao01"/>
+		</Unit>
+		<Unit filename="C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c">
+			<Option target="Aula06ExercicioDeFixacao06"/>
 		</Unit>
 		<Unit filename="C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

@@ -64,7 +64,8 @@
 						46,
 						47,
 						48,
-						49
+						49,
+						50
 					]
 				}
 			],
@@ -128,7 +129,8 @@
 						46,
 						47,
 						48,
-						49
+						49,
+						50
 					]
 				}
 			],
@@ -482,6 +484,13 @@
 					"id" : "Aula06ExercicioDeFixacao01::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Aula06ExercicioDeFixacao01-Debug-07fb441e8dff044f15b5.json",
 					"name" : "Aula06ExercicioDeFixacao01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula06ExercicioDeFixacao06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula06ExercicioDeFixacao06-Debug-f7517c26de07b5a3b64c.json",
+					"name" : "Aula06ExercicioDeFixacao06",
 					"projectIndex" : 0
 				}
 			]

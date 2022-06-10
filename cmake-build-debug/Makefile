@@ -765,6 +765,19 @@ Aula06ExercicioDeFixacao01/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Aula06ExercicioDeFixacao01.dir\build.make CMakeFiles/Aula06ExercicioDeFixacao01.dir/build
 .PHONY : Aula06ExercicioDeFixacao01/fast
 
+#=============================================================================
+# Target rules for targets named Aula06ExercicioDeFixacao06
+
+# Build rule for target.
+Aula06ExercicioDeFixacao06: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Aula06ExercicioDeFixacao06
+.PHONY : Aula06ExercicioDeFixacao06
+
+# fast build rule for target.
+Aula06ExercicioDeFixacao06/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Aula06ExercicioDeFixacao06.dir\build.make CMakeFiles/Aula06ExercicioDeFixacao06.dir/build
+.PHONY : Aula06ExercicioDeFixacao06/fast
+
 Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.obj: Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.c.obj
 .PHONY : Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.obj
 
@@ -1965,6 +1978,30 @@ Aula06/ExercicioDeFixacao01/ExercicioDeFixacao01.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Aula06ExercicioDeFixacao01.dir\build.make CMakeFiles/Aula06ExercicioDeFixacao01.dir/Aula06/ExercicioDeFixacao01/ExercicioDeFixacao01.c.s
 .PHONY : Aula06/ExercicioDeFixacao01/ExercicioDeFixacao01.c.s
 
+Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.obj: Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.obj
+.PHONY : Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.obj
+
+# target to build an object file
+Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Aula06ExercicioDeFixacao06.dir\build.make CMakeFiles/Aula06ExercicioDeFixacao06.dir/Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.obj
+.PHONY : Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.obj
+
+Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.i: Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.i
+.PHONY : Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.i
+
+# target to preprocess a source file
+Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Aula06ExercicioDeFixacao06.dir\build.make CMakeFiles/Aula06ExercicioDeFixacao06.dir/Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.i
+.PHONY : Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.i
+
+Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.s: Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.s
+.PHONY : Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.s
+
+# target to generate assembly for a file
+Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Aula06ExercicioDeFixacao06.dir\build.make CMakeFiles/Aula06ExercicioDeFixacao06.dir/Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.s
+.PHONY : Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -2023,6 +2060,7 @@ help:
 	@echo ... Aula05ExercicioDeFixacao10
 	@echo ... Aula05ExercicioDeFixacao11
 	@echo ... Aula06ExercicioDeFixacao01
+	@echo ... Aula06ExercicioDeFixacao06
 	@echo ... Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.obj
 	@echo ... Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.i
 	@echo ... Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.s
@@ -2173,6 +2211,9 @@ help:
 	@echo ... Aula06/ExercicioDeFixacao01/ExercicioDeFixacao01.obj
 	@echo ... Aula06/ExercicioDeFixacao01/ExercicioDeFixacao01.i
 	@echo ... Aula06/ExercicioDeFixacao01/ExercicioDeFixacao01.s
+	@echo ... Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.obj
+	@echo ... Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.i
+	@echo ... Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.s
 .PHONY : help
 
 

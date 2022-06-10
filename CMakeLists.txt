@@ -53,3 +53,4 @@ add_executable(Aula04ExercicioDeFixacao27 Aula04/ExercicioDeFixacao27/ExercicioD
 add_executable(Aula05ExercicioDeFixacao10 Aula05/ExercicioDeFixacao10/ExercicioDeFixacao10.c)
 add_executable(Aula05ExercicioDeFixacao11 Aula05/ExercicioDeFixacao11/ExercicioDeFixacao11.c)
 add_executable(Aula06ExercicioDeFixacao01 Aula06/ExercicioDeFixacao01/ExercicioDeFixacao01.c)
+add_executable(Aula06ExercicioDeFixacao06 Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c)
