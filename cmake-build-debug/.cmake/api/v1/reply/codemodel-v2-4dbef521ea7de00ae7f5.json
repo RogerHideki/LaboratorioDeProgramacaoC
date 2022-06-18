@@ -65,7 +65,8 @@
 						47,
 						48,
 						49,
-						50
+						50,
+						51
 					]
 				}
 			],
@@ -130,7 +131,8 @@
 						47,
 						48,
 						49,
-						50
+						50,
+						51
 					]
 				}
 			],
@@ -491,6 +493,13 @@
 					"id" : "Aula06ExercicioDeFixacao06::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Aula06ExercicioDeFixacao06-Debug-f7517c26de07b5a3b64c.json",
 					"name" : "Aula06ExercicioDeFixacao06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Prova2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prova2-Debug-eb3d3b2f2eadfa033c57.json",
+					"name" : "Prova2",
 					"projectIndex" : 0
 				}
 			]

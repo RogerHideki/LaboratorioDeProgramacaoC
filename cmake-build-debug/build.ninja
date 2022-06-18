@@ -54,8 +54,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao01.dir/Aula01/ExercicioDeFixacao01/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao01.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao01.dir\Aula01\ExercicioDeFixacao01
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao01.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao01.pdb
 
 
 # =============================================================================
@@ -71,10 +69,9 @@ build Aula01ExercicioDeFixacao01.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao01.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao01.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao01.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao01.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao01.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao01.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao02
@@ -90,8 +87,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao02.dir/Aula01/ExercicioDeFixacao02/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao02.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao02.dir\Aula01\ExercicioDeFixacao02
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao02.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao02.pdb
 
 
 # =============================================================================
@@ -107,10 +102,9 @@ build Aula01ExercicioDeFixacao02.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao02.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao02.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao02.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao02.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao02.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao02.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao03
@@ -126,8 +120,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao03.dir/Aula01/ExercicioDeFixacao03/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao03.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao03.dir\Aula01\ExercicioDeFixacao03
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao03.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao03.pdb
 
 
 # =============================================================================
@@ -143,10 +135,9 @@ build Aula01ExercicioDeFixacao03.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao03.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao03.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao03.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao03.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao03.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao03.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao04
@@ -162,8 +153,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao04.dir/Aula01/ExercicioDeFixacao04/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao04.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao04.dir\Aula01\ExercicioDeFixacao04
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao04.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao04.pdb
 
 
 # =============================================================================
@@ -179,10 +168,9 @@ build Aula01ExercicioDeFixacao04.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao04.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao04.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao04.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao04.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao04.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao04.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao05
@@ -198,8 +186,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao05.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao05.dir\Aula01\ExercicioDeFixacao05
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao05.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao05.pdb
 
 
 # =============================================================================
@@ -215,10 +201,9 @@ build Aula01ExercicioDeFixacao05.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao05.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao05.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao05.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao05.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao05.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao05.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao06
@@ -234,8 +219,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao06.dir/Aula01/ExercicioDeFixacao06/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao06.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao06.dir\Aula01\ExercicioDeFixacao06
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao06.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao06.pdb
 
 
 # =============================================================================
@@ -251,10 +234,9 @@ build Aula01ExercicioDeFixacao06.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao06.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao06.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao06.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao06.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao06.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao06.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao07
@@ -270,8 +252,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao07.dir/Aula01/ExercicioDeFixacao07/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao07.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao07.dir\Aula01\ExercicioDeFixacao07
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao07.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao07.pdb
 
 
 # =============================================================================
@@ -287,10 +267,9 @@ build Aula01ExercicioDeFixacao07.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao07.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao07.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao07.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao07.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao07.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao07.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao08_0
@@ -306,8 +285,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao08_0.dir/Aula01/ExercicioDeFixacao08/Ex
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao08_0.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao08_0.dir\Aula01\ExercicioDeFixacao08
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao08_0.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao08_0.pdb
 
 
 # =============================================================================
@@ -323,10 +300,9 @@ build Aula01ExercicioDeFixacao08_0.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFi
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao08_0.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao08_0.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao08_0.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao08_0.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao08_0.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao08_0.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao08_1
@@ -342,8 +318,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao08_1.dir/Aula01/ExercicioDeFixacao08/Ex
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao08_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao08_1.dir\Aula01\ExercicioDeFixacao08
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao08_1.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao08_1.pdb
 
 
 # =============================================================================
@@ -359,10 +333,9 @@ build Aula01ExercicioDeFixacao08_1.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFi
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao08_1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao08_1.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao08_1.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao08_1.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao08_1.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao08_1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao09_0
@@ -378,8 +351,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao09_0.dir/Aula01/ExercicioDeFixacao09/Ex
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao09_0.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao09_0.dir\Aula01\ExercicioDeFixacao09
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao09_0.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao09_0.pdb
 
 
 # =============================================================================
@@ -395,10 +366,9 @@ build Aula01ExercicioDeFixacao09_0.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFi
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao09_0.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao09_0.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao09_0.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao09_0.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao09_0.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao09_0.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao09_1
@@ -414,8 +384,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao09_1.dir/Aula01/ExercicioDeFixacao09/Ex
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao09_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao09_1.dir\Aula01\ExercicioDeFixacao09
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao09_1.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao09_1.pdb
 
 
 # =============================================================================
@@ -431,10 +399,9 @@ build Aula01ExercicioDeFixacao09_1.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFi
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao09_1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao09_1.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao09_1.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao09_1.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao09_1.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao09_1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao10_0
@@ -450,8 +417,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao10_0.dir/Aula01/ExercicioDeFixacao10/Ex
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao10_0.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao10_0.dir\Aula01\ExercicioDeFixacao10
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao10_0.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao10_0.pdb
 
 
 # =============================================================================
@@ -467,10 +432,9 @@ build Aula01ExercicioDeFixacao10_0.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFi
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao10_0.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao10_0.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao10_0.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao10_0.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao10_0.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao10_0.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao10_1
@@ -486,8 +450,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao10_1.dir/Aula01/ExercicioDeFixacao10/Ex
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao10_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao10_1.dir\Aula01\ExercicioDeFixacao10
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao10_1.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao10_1.pdb
 
 
 # =============================================================================
@@ -503,10 +465,9 @@ build Aula01ExercicioDeFixacao10_1.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFi
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao10_1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao10_1.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao10_1.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao10_1.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao10_1.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao10_1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao10_2
@@ -522,8 +483,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao10_2.dir/Aula01/ExercicioDeFixacao10/Ex
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao10_2.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao10_2.dir\Aula01\ExercicioDeFixacao10
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao10_2.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao10_2.pdb
 
 
 # =============================================================================
@@ -539,10 +498,9 @@ build Aula01ExercicioDeFixacao10_2.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFi
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao10_2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao10_2.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao10_2.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao10_2.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao10_2.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao10_2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao11_0
@@ -558,8 +516,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao11_0.dir/Aula01/ExercicioDeFixacao11/Ex
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao11_0.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao11_0.dir\Aula01\ExercicioDeFixacao11
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao11_0.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao11_0.pdb
 
 
 # =============================================================================
@@ -575,10 +531,9 @@ build Aula01ExercicioDeFixacao11_0.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFi
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao11_0.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao11_0.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao11_0.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao11_0.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao11_0.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao11_0.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao11_1
@@ -594,8 +549,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao11_1.dir/Aula01/ExercicioDeFixacao11/Ex
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao11_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao11_1.dir\Aula01\ExercicioDeFixacao11
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao11_1.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao11_1.pdb
 
 
 # =============================================================================
@@ -611,10 +564,9 @@ build Aula01ExercicioDeFixacao11_1.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFi
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao11_1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao11_1.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao11_1.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao11_1.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao11_1.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao11_1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao12
@@ -630,8 +582,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao12.dir/Aula01/ExercicioDeFixacao12/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao12.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao12.dir\Aula01\ExercicioDeFixacao12
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao12.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao12.pdb
 
 
 # =============================================================================
@@ -647,10 +597,9 @@ build Aula01ExercicioDeFixacao12.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao12.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao12.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao12.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao12.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao12.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao12.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula01ExercicioDeFixacao13
@@ -666,8 +615,6 @@ build CMakeFiles/Aula01ExercicioDeFixacao13.dir/Aula01/ExercicioDeFixacao13/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao13.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula01ExercicioDeFixacao13.dir\Aula01\ExercicioDeFixacao13
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao13.dir\
-  TARGET_PDB = Aula01ExercicioDeFixacao13.pdb
 
 
 # =============================================================================
@@ -683,10 +630,9 @@ build Aula01ExercicioDeFixacao13.exe: C_EXECUTABLE_LINKER__Aula01ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula01ExercicioDeFixacao13.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula01ExercicioDeFixacao13.dir\
   TARGET_FILE = Aula01ExercicioDeFixacao13.exe
   TARGET_IMPLIB = libAula01ExercicioDeFixacao13.dll.a
-  TARGET_PDB = Aula01ExercicioDeFixacao13.pdb
+  TARGET_PDB = Aula01ExercicioDeFixacao13.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao02
@@ -702,8 +648,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao02.dir/Aula02/ExercicioDeFixacao02/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao02.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao02.dir\Aula02\ExercicioDeFixacao02
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao02.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao02.pdb
 
 
 # =============================================================================
@@ -719,10 +663,9 @@ build Aula02ExercicioDeFixacao02.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao02.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao02.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao02.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao02.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao02.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao02.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao03
@@ -738,8 +681,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao03.dir/Aula02/ExercicioDeFixacao03/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao03.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao03.dir\Aula02\ExercicioDeFixacao03
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao03.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao03.pdb
 
 
 # =============================================================================
@@ -755,10 +696,9 @@ build Aula02ExercicioDeFixacao03.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao03.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao03.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao03.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao03.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao03.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao03.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao04
@@ -774,8 +714,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao04.dir/Aula02/ExercicioDeFixacao04/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao04.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao04.dir\Aula02\ExercicioDeFixacao04
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao04.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao04.pdb
 
 
 # =============================================================================
@@ -791,10 +729,9 @@ build Aula02ExercicioDeFixacao04.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao04.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao04.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao04.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao04.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao04.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao04.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao05
@@ -810,8 +747,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao05.dir/Aula02/ExercicioDeFixacao05/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao05.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao05.dir\Aula02\ExercicioDeFixacao05
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao05.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao05.pdb
 
 
 # =============================================================================
@@ -827,10 +762,9 @@ build Aula02ExercicioDeFixacao05.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao05.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao05.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao05.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao05.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao05.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao05.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao06
@@ -846,8 +780,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao06.dir/Aula02/ExercicioDeFixacao06/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao06.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao06.dir\Aula02\ExercicioDeFixacao06
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao06.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao06.pdb
 
 
 # =============================================================================
@@ -863,10 +795,9 @@ build Aula02ExercicioDeFixacao06.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao06.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao06.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao06.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao06.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao06.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao06.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao07
@@ -882,8 +813,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao07.dir/Aula02/ExercicioDeFixacao07/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao07.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao07.dir\Aula02\ExercicioDeFixacao07
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao07.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao07.pdb
 
 
 # =============================================================================
@@ -899,10 +828,9 @@ build Aula02ExercicioDeFixacao07.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao07.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao07.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao07.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao07.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao07.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao07.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao08
@@ -918,8 +846,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao08.dir/Aula02/ExercicioDeFixacao08/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao08.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao08.dir\Aula02\ExercicioDeFixacao08
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao08.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao08.pdb
 
 
 # =============================================================================
@@ -935,10 +861,9 @@ build Aula02ExercicioDeFixacao08.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao08.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao08.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao08.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao08.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao08.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao08.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao09
@@ -954,8 +879,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao09.dir/Aula02/ExercicioDeFixacao09/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao09.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao09.dir\Aula02\ExercicioDeFixacao09
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao09.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao09.pdb
 
 
 # =============================================================================
@@ -971,10 +894,9 @@ build Aula02ExercicioDeFixacao09.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao09.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao09.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao09.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao09.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao09.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao09.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao10
@@ -990,8 +912,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao10.dir/Aula02/ExercicioDeFixacao10/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao10.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao10.dir\Aula02\ExercicioDeFixacao10
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao10.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao10.pdb
 
 
 # =============================================================================
@@ -1007,10 +927,9 @@ build Aula02ExercicioDeFixacao10.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao10.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao10.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao10.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao10.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao10.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao10.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao11
@@ -1026,8 +945,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao11.dir/Aula02/ExercicioDeFixacao11/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao11.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao11.dir\Aula02\ExercicioDeFixacao11
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao11.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao11.pdb
 
 
 # =============================================================================
@@ -1043,10 +960,9 @@ build Aula02ExercicioDeFixacao11.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao11.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao11.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao11.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao11.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao11.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao11.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao12
@@ -1062,8 +978,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao12.dir/Aula02/ExercicioDeFixacao12/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao12.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao12.dir\Aula02\ExercicioDeFixacao12
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao12.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao12.pdb
 
 
 # =============================================================================
@@ -1079,10 +993,9 @@ build Aula02ExercicioDeFixacao12.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao12.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao12.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao12.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao12.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao12.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao12.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao13_0
@@ -1098,8 +1011,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao13_0.dir/Aula02/ExercicioDeFixacao13/Ex
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao13_0.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao13_0.dir\Aula02\ExercicioDeFixacao13
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao13_0.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao13_0.pdb
 
 
 # =============================================================================
@@ -1115,10 +1026,9 @@ build Aula02ExercicioDeFixacao13_0.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFi
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao13_0.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao13_0.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao13_0.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao13_0.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao13_0.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao13_0.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao13_1
@@ -1134,8 +1044,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao13_1.dir/Aula02/ExercicioDeFixacao13/Ex
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao13_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao13_1.dir\Aula02\ExercicioDeFixacao13
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao13_1.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao13_1.pdb
 
 
 # =============================================================================
@@ -1151,10 +1059,9 @@ build Aula02ExercicioDeFixacao13_1.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFi
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao13_1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao13_1.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao13_1.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao13_1.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao13_1.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao13_1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula02ExercicioDeFixacao14
@@ -1170,8 +1077,6 @@ build CMakeFiles/Aula02ExercicioDeFixacao14.dir/Aula02/ExercicioDeFixacao14/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao14.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula02ExercicioDeFixacao14.dir\Aula02\ExercicioDeFixacao14
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao14.dir\
-  TARGET_PDB = Aula02ExercicioDeFixacao14.pdb
 
 
 # =============================================================================
@@ -1187,10 +1092,9 @@ build Aula02ExercicioDeFixacao14.exe: C_EXECUTABLE_LINKER__Aula02ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula02ExercicioDeFixacao14.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula02ExercicioDeFixacao14.dir\
   TARGET_FILE = Aula02ExercicioDeFixacao14.exe
   TARGET_IMPLIB = libAula02ExercicioDeFixacao14.dll.a
-  TARGET_PDB = Aula02ExercicioDeFixacao14.pdb
+  TARGET_PDB = Aula02ExercicioDeFixacao14.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula03ExercicioDeFixacao01
@@ -1206,8 +1110,6 @@ build CMakeFiles/Aula03ExercicioDeFixacao01.dir/Aula03/ExercicioDeFixacao01/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula03ExercicioDeFixacao01.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula03ExercicioDeFixacao01.dir\Aula03\ExercicioDeFixacao01
-  TARGET_COMPILE_PDB = CMakeFiles\Aula03ExercicioDeFixacao01.dir\
-  TARGET_PDB = Aula03ExercicioDeFixacao01.pdb
 
 
 # =============================================================================
@@ -1223,10 +1125,9 @@ build Aula03ExercicioDeFixacao01.exe: C_EXECUTABLE_LINKER__Aula03ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula03ExercicioDeFixacao01.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula03ExercicioDeFixacao01.dir\
   TARGET_FILE = Aula03ExercicioDeFixacao01.exe
   TARGET_IMPLIB = libAula03ExercicioDeFixacao01.dll.a
-  TARGET_PDB = Aula03ExercicioDeFixacao01.pdb
+  TARGET_PDB = Aula03ExercicioDeFixacao01.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula03ExercicioDeFixacao02
@@ -1242,8 +1143,6 @@ build CMakeFiles/Aula03ExercicioDeFixacao02.dir/Aula03/ExercicioDeFixacao02/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula03ExercicioDeFixacao02.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula03ExercicioDeFixacao02.dir\Aula03\ExercicioDeFixacao02
-  TARGET_COMPILE_PDB = CMakeFiles\Aula03ExercicioDeFixacao02.dir\
-  TARGET_PDB = Aula03ExercicioDeFixacao02.pdb
 
 
 # =============================================================================
@@ -1259,10 +1158,9 @@ build Aula03ExercicioDeFixacao02.exe: C_EXECUTABLE_LINKER__Aula03ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula03ExercicioDeFixacao02.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula03ExercicioDeFixacao02.dir\
   TARGET_FILE = Aula03ExercicioDeFixacao02.exe
   TARGET_IMPLIB = libAula03ExercicioDeFixacao02.dll.a
-  TARGET_PDB = Aula03ExercicioDeFixacao02.pdb
+  TARGET_PDB = Aula03ExercicioDeFixacao02.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula03ExercicioDeFixacao03
@@ -1278,8 +1176,6 @@ build CMakeFiles/Aula03ExercicioDeFixacao03.dir/Aula03/ExercicioDeFixacao03/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula03ExercicioDeFixacao03.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula03ExercicioDeFixacao03.dir\Aula03\ExercicioDeFixacao03
-  TARGET_COMPILE_PDB = CMakeFiles\Aula03ExercicioDeFixacao03.dir\
-  TARGET_PDB = Aula03ExercicioDeFixacao03.pdb
 
 
 # =============================================================================
@@ -1295,10 +1191,9 @@ build Aula03ExercicioDeFixacao03.exe: C_EXECUTABLE_LINKER__Aula03ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula03ExercicioDeFixacao03.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula03ExercicioDeFixacao03.dir\
   TARGET_FILE = Aula03ExercicioDeFixacao03.exe
   TARGET_IMPLIB = libAula03ExercicioDeFixacao03.dll.a
-  TARGET_PDB = Aula03ExercicioDeFixacao03.pdb
+  TARGET_PDB = Aula03ExercicioDeFixacao03.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula03ExercicioDeFixacao04
@@ -1314,8 +1209,6 @@ build CMakeFiles/Aula03ExercicioDeFixacao04.dir/Aula03/ExercicioDeFixacao04/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula03ExercicioDeFixacao04.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula03ExercicioDeFixacao04.dir\Aula03\ExercicioDeFixacao04
-  TARGET_COMPILE_PDB = CMakeFiles\Aula03ExercicioDeFixacao04.dir\
-  TARGET_PDB = Aula03ExercicioDeFixacao04.pdb
 
 
 # =============================================================================
@@ -1331,10 +1224,9 @@ build Aula03ExercicioDeFixacao04.exe: C_EXECUTABLE_LINKER__Aula03ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula03ExercicioDeFixacao04.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula03ExercicioDeFixacao04.dir\
   TARGET_FILE = Aula03ExercicioDeFixacao04.exe
   TARGET_IMPLIB = libAula03ExercicioDeFixacao04.dll.a
-  TARGET_PDB = Aula03ExercicioDeFixacao04.pdb
+  TARGET_PDB = Aula03ExercicioDeFixacao04.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula03ExercicioDeFixacao05
@@ -1350,8 +1242,6 @@ build CMakeFiles/Aula03ExercicioDeFixacao05.dir/Aula03/ExercicioDeFixacao05/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula03ExercicioDeFixacao05.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula03ExercicioDeFixacao05.dir\Aula03\ExercicioDeFixacao05
-  TARGET_COMPILE_PDB = CMakeFiles\Aula03ExercicioDeFixacao05.dir\
-  TARGET_PDB = Aula03ExercicioDeFixacao05.pdb
 
 
 # =============================================================================
@@ -1367,10 +1257,9 @@ build Aula03ExercicioDeFixacao05.exe: C_EXECUTABLE_LINKER__Aula03ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula03ExercicioDeFixacao05.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula03ExercicioDeFixacao05.dir\
   TARGET_FILE = Aula03ExercicioDeFixacao05.exe
   TARGET_IMPLIB = libAula03ExercicioDeFixacao05.dll.a
-  TARGET_PDB = Aula03ExercicioDeFixacao05.pdb
+  TARGET_PDB = Aula03ExercicioDeFixacao05.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula04ExercicioDeFixacao01
@@ -1386,8 +1275,6 @@ build CMakeFiles/Aula04ExercicioDeFixacao01.dir/Aula04/ExercicioDeFixacao01/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao01.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula04ExercicioDeFixacao01.dir\Aula04\ExercicioDeFixacao01
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao01.dir\
-  TARGET_PDB = Aula04ExercicioDeFixacao01.pdb
 
 
 # =============================================================================
@@ -1403,10 +1290,9 @@ build Aula04ExercicioDeFixacao01.exe: C_EXECUTABLE_LINKER__Aula04ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao01.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao01.dir\
   TARGET_FILE = Aula04ExercicioDeFixacao01.exe
   TARGET_IMPLIB = libAula04ExercicioDeFixacao01.dll.a
-  TARGET_PDB = Aula04ExercicioDeFixacao01.pdb
+  TARGET_PDB = Aula04ExercicioDeFixacao01.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula04ExercicioDeFixacao02
@@ -1422,8 +1308,6 @@ build CMakeFiles/Aula04ExercicioDeFixacao02.dir/Aula04/ExercicioDeFixacao02/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao02.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula04ExercicioDeFixacao02.dir\Aula04\ExercicioDeFixacao02
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao02.dir\
-  TARGET_PDB = Aula04ExercicioDeFixacao02.pdb
 
 
 # =============================================================================
@@ -1439,10 +1323,9 @@ build Aula04ExercicioDeFixacao02.exe: C_EXECUTABLE_LINKER__Aula04ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao02.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao02.dir\
   TARGET_FILE = Aula04ExercicioDeFixacao02.exe
   TARGET_IMPLIB = libAula04ExercicioDeFixacao02.dll.a
-  TARGET_PDB = Aula04ExercicioDeFixacao02.pdb
+  TARGET_PDB = Aula04ExercicioDeFixacao02.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula04ExercicioDeFixacao03
@@ -1458,8 +1341,6 @@ build CMakeFiles/Aula04ExercicioDeFixacao03.dir/Aula04/ExercicioDeFixacao03/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao03.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula04ExercicioDeFixacao03.dir\Aula04\ExercicioDeFixacao03
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao03.dir\
-  TARGET_PDB = Aula04ExercicioDeFixacao03.pdb
 
 
 # =============================================================================
@@ -1475,10 +1356,9 @@ build Aula04ExercicioDeFixacao03.exe: C_EXECUTABLE_LINKER__Aula04ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao03.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao03.dir\
   TARGET_FILE = Aula04ExercicioDeFixacao03.exe
   TARGET_IMPLIB = libAula04ExercicioDeFixacao03.dll.a
-  TARGET_PDB = Aula04ExercicioDeFixacao03.pdb
+  TARGET_PDB = Aula04ExercicioDeFixacao03.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula04ExercicioDeFixacao12
@@ -1494,8 +1374,6 @@ build CMakeFiles/Aula04ExercicioDeFixacao12.dir/Aula04/ExercicioDeFixacao12/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao12.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula04ExercicioDeFixacao12.dir\Aula04\ExercicioDeFixacao12
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao12.dir\
-  TARGET_PDB = Aula04ExercicioDeFixacao12.pdb
 
 
 # =============================================================================
@@ -1511,10 +1389,9 @@ build Aula04ExercicioDeFixacao12.exe: C_EXECUTABLE_LINKER__Aula04ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao12.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao12.dir\
   TARGET_FILE = Aula04ExercicioDeFixacao12.exe
   TARGET_IMPLIB = libAula04ExercicioDeFixacao12.dll.a
-  TARGET_PDB = Aula04ExercicioDeFixacao12.pdb
+  TARGET_PDB = Aula04ExercicioDeFixacao12.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula04ExercicioDeFixacao13
@@ -1530,8 +1407,6 @@ build CMakeFiles/Aula04ExercicioDeFixacao13.dir/Aula04/ExercicioDeFixacao13/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao13.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula04ExercicioDeFixacao13.dir\Aula04\ExercicioDeFixacao13
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao13.dir\
-  TARGET_PDB = Aula04ExercicioDeFixacao13.pdb
 
 
 # =============================================================================
@@ -1547,10 +1422,9 @@ build Aula04ExercicioDeFixacao13.exe: C_EXECUTABLE_LINKER__Aula04ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao13.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao13.dir\
   TARGET_FILE = Aula04ExercicioDeFixacao13.exe
   TARGET_IMPLIB = libAula04ExercicioDeFixacao13.dll.a
-  TARGET_PDB = Aula04ExercicioDeFixacao13.pdb
+  TARGET_PDB = Aula04ExercicioDeFixacao13.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula04ExercicioDeFixacao16
@@ -1566,8 +1440,6 @@ build CMakeFiles/Aula04ExercicioDeFixacao16.dir/Aula04/ExercicioDeFixacao16/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao16.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula04ExercicioDeFixacao16.dir\Aula04\ExercicioDeFixacao16
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao16.dir\
-  TARGET_PDB = Aula04ExercicioDeFixacao16.pdb
 
 
 # =============================================================================
@@ -1583,10 +1455,9 @@ build Aula04ExercicioDeFixacao16.exe: C_EXECUTABLE_LINKER__Aula04ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao16.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao16.dir\
   TARGET_FILE = Aula04ExercicioDeFixacao16.exe
   TARGET_IMPLIB = libAula04ExercicioDeFixacao16.dll.a
-  TARGET_PDB = Aula04ExercicioDeFixacao16.pdb
+  TARGET_PDB = Aula04ExercicioDeFixacao16.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula04ExercicioDeFixacao22
@@ -1602,8 +1473,6 @@ build CMakeFiles/Aula04ExercicioDeFixacao22.dir/Aula04/ExercicioDeFixacao22/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao22.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula04ExercicioDeFixacao22.dir\Aula04\ExercicioDeFixacao22
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao22.dir\
-  TARGET_PDB = Aula04ExercicioDeFixacao22.pdb
 
 
 # =============================================================================
@@ -1619,10 +1488,9 @@ build Aula04ExercicioDeFixacao22.exe: C_EXECUTABLE_LINKER__Aula04ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao22.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao22.dir\
   TARGET_FILE = Aula04ExercicioDeFixacao22.exe
   TARGET_IMPLIB = libAula04ExercicioDeFixacao22.dll.a
-  TARGET_PDB = Aula04ExercicioDeFixacao22.pdb
+  TARGET_PDB = Aula04ExercicioDeFixacao22.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula04ExercicioDeFixacao23
@@ -1638,8 +1506,6 @@ build CMakeFiles/Aula04ExercicioDeFixacao23.dir/Aula04/ExercicioDeFixacao23/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao23.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula04ExercicioDeFixacao23.dir\Aula04\ExercicioDeFixacao23
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao23.dir\
-  TARGET_PDB = Aula04ExercicioDeFixacao23.pdb
 
 
 # =============================================================================
@@ -1655,10 +1521,9 @@ build Aula04ExercicioDeFixacao23.exe: C_EXECUTABLE_LINKER__Aula04ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao23.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao23.dir\
   TARGET_FILE = Aula04ExercicioDeFixacao23.exe
   TARGET_IMPLIB = libAula04ExercicioDeFixacao23.dll.a
-  TARGET_PDB = Aula04ExercicioDeFixacao23.pdb
+  TARGET_PDB = Aula04ExercicioDeFixacao23.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula04ExercicioDeFixacao24
@@ -1674,8 +1539,6 @@ build CMakeFiles/Aula04ExercicioDeFixacao24.dir/Aula04/ExercicioDeFixacao24/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao24.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula04ExercicioDeFixacao24.dir\Aula04\ExercicioDeFixacao24
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao24.dir\
-  TARGET_PDB = Aula04ExercicioDeFixacao24.pdb
 
 
 # =============================================================================
@@ -1691,10 +1554,9 @@ build Aula04ExercicioDeFixacao24.exe: C_EXECUTABLE_LINKER__Aula04ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao24.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao24.dir\
   TARGET_FILE = Aula04ExercicioDeFixacao24.exe
   TARGET_IMPLIB = libAula04ExercicioDeFixacao24.dll.a
-  TARGET_PDB = Aula04ExercicioDeFixacao24.pdb
+  TARGET_PDB = Aula04ExercicioDeFixacao24.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula04ExercicioDeFixacao27
@@ -1710,8 +1572,6 @@ build CMakeFiles/Aula04ExercicioDeFixacao27.dir/Aula04/ExercicioDeFixacao27/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao27.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula04ExercicioDeFixacao27.dir\Aula04\ExercicioDeFixacao27
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao27.dir\
-  TARGET_PDB = Aula04ExercicioDeFixacao27.pdb
 
 
 # =============================================================================
@@ -1727,10 +1587,9 @@ build Aula04ExercicioDeFixacao27.exe: C_EXECUTABLE_LINKER__Aula04ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula04ExercicioDeFixacao27.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula04ExercicioDeFixacao27.dir\
   TARGET_FILE = Aula04ExercicioDeFixacao27.exe
   TARGET_IMPLIB = libAula04ExercicioDeFixacao27.dll.a
-  TARGET_PDB = Aula04ExercicioDeFixacao27.pdb
+  TARGET_PDB = Aula04ExercicioDeFixacao27.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula05ExercicioDeFixacao10
@@ -1746,8 +1605,6 @@ build CMakeFiles/Aula05ExercicioDeFixacao10.dir/Aula05/ExercicioDeFixacao10/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula05ExercicioDeFixacao10.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula05ExercicioDeFixacao10.dir\Aula05\ExercicioDeFixacao10
-  TARGET_COMPILE_PDB = CMakeFiles\Aula05ExercicioDeFixacao10.dir\
-  TARGET_PDB = Aula05ExercicioDeFixacao10.pdb
 
 
 # =============================================================================
@@ -1763,10 +1620,9 @@ build Aula05ExercicioDeFixacao10.exe: C_EXECUTABLE_LINKER__Aula05ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula05ExercicioDeFixacao10.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula05ExercicioDeFixacao10.dir\
   TARGET_FILE = Aula05ExercicioDeFixacao10.exe
   TARGET_IMPLIB = libAula05ExercicioDeFixacao10.dll.a
-  TARGET_PDB = Aula05ExercicioDeFixacao10.pdb
+  TARGET_PDB = Aula05ExercicioDeFixacao10.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula05ExercicioDeFixacao11
@@ -1782,8 +1638,6 @@ build CMakeFiles/Aula05ExercicioDeFixacao11.dir/Aula05/ExercicioDeFixacao11/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula05ExercicioDeFixacao11.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula05ExercicioDeFixacao11.dir\Aula05\ExercicioDeFixacao11
-  TARGET_COMPILE_PDB = CMakeFiles\Aula05ExercicioDeFixacao11.dir\
-  TARGET_PDB = Aula05ExercicioDeFixacao11.pdb
 
 
 # =============================================================================
@@ -1799,10 +1653,9 @@ build Aula05ExercicioDeFixacao11.exe: C_EXECUTABLE_LINKER__Aula05ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula05ExercicioDeFixacao11.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula05ExercicioDeFixacao11.dir\
   TARGET_FILE = Aula05ExercicioDeFixacao11.exe
   TARGET_IMPLIB = libAula05ExercicioDeFixacao11.dll.a
-  TARGET_PDB = Aula05ExercicioDeFixacao11.pdb
+  TARGET_PDB = Aula05ExercicioDeFixacao11.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula06ExercicioDeFixacao01
@@ -1818,8 +1671,6 @@ build CMakeFiles/Aula06ExercicioDeFixacao01.dir/Aula06/ExercicioDeFixacao01/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula06ExercicioDeFixacao01.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula06ExercicioDeFixacao01.dir\Aula06\ExercicioDeFixacao01
-  TARGET_COMPILE_PDB = CMakeFiles\Aula06ExercicioDeFixacao01.dir\
-  TARGET_PDB = Aula06ExercicioDeFixacao01.pdb
 
 
 # =============================================================================
@@ -1835,10 +1686,9 @@ build Aula06ExercicioDeFixacao01.exe: C_EXECUTABLE_LINKER__Aula06ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula06ExercicioDeFixacao01.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula06ExercicioDeFixacao01.dir\
   TARGET_FILE = Aula06ExercicioDeFixacao01.exe
   TARGET_IMPLIB = libAula06ExercicioDeFixacao01.dll.a
-  TARGET_PDB = Aula06ExercicioDeFixacao01.pdb
+  TARGET_PDB = Aula06ExercicioDeFixacao01.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Aula06ExercicioDeFixacao06
@@ -1854,8 +1704,6 @@ build CMakeFiles/Aula06ExercicioDeFixacao06.dir/Aula06/ExercicioDeFixacao06/Exer
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\Aula06ExercicioDeFixacao06.dir
   OBJECT_FILE_DIR = CMakeFiles\Aula06ExercicioDeFixacao06.dir\Aula06\ExercicioDeFixacao06
-  TARGET_COMPILE_PDB = CMakeFiles\Aula06ExercicioDeFixacao06.dir\
-  TARGET_PDB = Aula06ExercicioDeFixacao06.pdb
 
 
 # =============================================================================
@@ -1871,10 +1719,42 @@ build Aula06ExercicioDeFixacao06.exe: C_EXECUTABLE_LINKER__Aula06ExercicioDeFixa
   OBJECT_DIR = CMakeFiles\Aula06ExercicioDeFixacao06.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Aula06ExercicioDeFixacao06.dir\
   TARGET_FILE = Aula06ExercicioDeFixacao06.exe
   TARGET_IMPLIB = libAula06ExercicioDeFixacao06.dll.a
-  TARGET_PDB = Aula06ExercicioDeFixacao06.pdb
+  TARGET_PDB = Aula06ExercicioDeFixacao06.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Prova2
+
+
+#############################################
+# Order-only phony target for Prova2
+
+build cmake_object_order_depends_target_Prova2: phony || CMakeFiles/Prova2.dir
+
+build CMakeFiles/Prova2.dir/Prova2/Main_Program.c.obj: C_COMPILER__Prova2_Debug C$:/Users/Usuário/Documents/MeusProjetos/LaboratorioDeProgramacao/Prova2/Main_Program.c || cmake_object_order_depends_target_Prova2
+  DEP_FILE = CMakeFiles\Prova2.dir\Prova2\Main_Program.c.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\Prova2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Prova2.dir\Prova2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Prova2
+
+
+#############################################
+# Link the executable Prova2.exe
+
+build Prova2.exe: C_EXECUTABLE_LINKER__Prova2_Debug CMakeFiles/Prova2.dir/Prova2/Main_Program.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Prova2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Prova2.exe
+  TARGET_IMPLIB = libProva2.dll.a
+  TARGET_PDB = Prova2.exe.dbg
 
 
 #############################################
@@ -2004,6 +1884,8 @@ build Aula06ExercicioDeFixacao01: phony Aula06ExercicioDeFixacao01.exe
 
 build Aula06ExercicioDeFixacao06: phony Aula06ExercicioDeFixacao06.exe
 
+build Prova2: phony Prova2.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -2012,7 +1894,7 @@ build Aula06ExercicioDeFixacao06: phony Aula06ExercicioDeFixacao06.exe
 #############################################
 # Folder: C:/Users/Usuário/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug
 
-build all: phony Aula01ExercicioDeFixacao01.exe Aula01ExercicioDeFixacao02.exe Aula01ExercicioDeFixacao03.exe Aula01ExercicioDeFixacao04.exe Aula01ExercicioDeFixacao05.exe Aula01ExercicioDeFixacao06.exe Aula01ExercicioDeFixacao07.exe Aula01ExercicioDeFixacao08_0.exe Aula01ExercicioDeFixacao08_1.exe Aula01ExercicioDeFixacao09_0.exe Aula01ExercicioDeFixacao09_1.exe Aula01ExercicioDeFixacao10_0.exe Aula01ExercicioDeFixacao10_1.exe Aula01ExercicioDeFixacao10_2.exe Aula01ExercicioDeFixacao11_0.exe Aula01ExercicioDeFixacao11_1.exe Aula01ExercicioDeFixacao12.exe Aula01ExercicioDeFixacao13.exe Aula02ExercicioDeFixacao02.exe Aula02ExercicioDeFixacao03.exe Aula02ExercicioDeFixacao04.exe Aula02ExercicioDeFixacao05.exe Aula02ExercicioDeFixacao06.exe Aula02ExercicioDeFixacao07.exe Aula02ExercicioDeFixacao08.exe Aula02ExercicioDeFixacao09.exe Aula02ExercicioDeFixacao10.exe Aula02ExercicioDeFixacao11.exe Aula02ExercicioDeFixacao12.exe Aula02ExercicioDeFixacao13_0.exe Aula02ExercicioDeFixacao13_1.exe Aula02ExercicioDeFixacao14.exe Aula03ExercicioDeFixacao01.exe Aula03ExercicioDeFixacao02.exe Aula03ExercicioDeFixacao03.exe Aula03ExercicioDeFixacao04.exe Aula03ExercicioDeFixacao05.exe Aula04ExercicioDeFixacao01.exe Aula04ExercicioDeFixacao02.exe Aula04ExercicioDeFixacao03.exe Aula04ExercicioDeFixacao12.exe Aula04ExercicioDeFixacao13.exe Aula04ExercicioDeFixacao16.exe Aula04ExercicioDeFixacao22.exe Aula04ExercicioDeFixacao23.exe Aula04ExercicioDeFixacao24.exe Aula04ExercicioDeFixacao27.exe Aula05ExercicioDeFixacao10.exe Aula05ExercicioDeFixacao11.exe Aula06ExercicioDeFixacao01.exe Aula06ExercicioDeFixacao06.exe
+build all: phony Aula01ExercicioDeFixacao01.exe Aula01ExercicioDeFixacao02.exe Aula01ExercicioDeFixacao03.exe Aula01ExercicioDeFixacao04.exe Aula01ExercicioDeFixacao05.exe Aula01ExercicioDeFixacao06.exe Aula01ExercicioDeFixacao07.exe Aula01ExercicioDeFixacao08_0.exe Aula01ExercicioDeFixacao08_1.exe Aula01ExercicioDeFixacao09_0.exe Aula01ExercicioDeFixacao09_1.exe Aula01ExercicioDeFixacao10_0.exe Aula01ExercicioDeFixacao10_1.exe Aula01ExercicioDeFixacao10_2.exe Aula01ExercicioDeFixacao11_0.exe Aula01ExercicioDeFixacao11_1.exe Aula01ExercicioDeFixacao12.exe Aula01ExercicioDeFixacao13.exe Aula02ExercicioDeFixacao02.exe Aula02ExercicioDeFixacao03.exe Aula02ExercicioDeFixacao04.exe Aula02ExercicioDeFixacao05.exe Aula02ExercicioDeFixacao06.exe Aula02ExercicioDeFixacao07.exe Aula02ExercicioDeFixacao08.exe Aula02ExercicioDeFixacao09.exe Aula02ExercicioDeFixacao10.exe Aula02ExercicioDeFixacao11.exe Aula02ExercicioDeFixacao12.exe Aula02ExercicioDeFixacao13_0.exe Aula02ExercicioDeFixacao13_1.exe Aula02ExercicioDeFixacao14.exe Aula03ExercicioDeFixacao01.exe Aula03ExercicioDeFixacao02.exe Aula03ExercicioDeFixacao03.exe Aula03ExercicioDeFixacao04.exe Aula03ExercicioDeFixacao05.exe Aula04ExercicioDeFixacao01.exe Aula04ExercicioDeFixacao02.exe Aula04ExercicioDeFixacao03.exe Aula04ExercicioDeFixacao12.exe Aula04ExercicioDeFixacao13.exe Aula04ExercicioDeFixacao16.exe Aula04ExercicioDeFixacao22.exe Aula04ExercicioDeFixacao23.exe Aula04ExercicioDeFixacao24.exe Aula04ExercicioDeFixacao27.exe Aula05ExercicioDeFixacao10.exe Aula05ExercicioDeFixacao11.exe Aula06ExercicioDeFixacao01.exe Aula06ExercicioDeFixacao06.exe Prova2.exe
 
 # =============================================================================
 # Built-in targets
@@ -2021,14 +1903,14 @@ build all: phony Aula01ExercicioDeFixacao01.exe Aula01ExercicioDeFixacao02.exe A
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeRCCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeRCCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeRCCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake: phony
+build ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.1.2/bin/cmake/win/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeRCCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake: phony
 
 
 #############################################
