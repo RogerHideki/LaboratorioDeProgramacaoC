@@ -66,10 +66,7 @@
 						48,
 						49,
 						50,
-						51,
-						52,
-						53,
-						54
+						51
 					]
 				}
 			],
@@ -135,10 +132,7 @@
 						48,
 						49,
 						50,
-						51,
-						52,
-						53,
-						54
+						51
 					]
 				}
 			],
@@ -503,30 +497,9 @@
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Prova2ProgramaPrincipal::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Prova2ProgramaPrincipal-Debug-bb82df311a604b6420f9.json",
-					"name" : "Prova2ProgramaPrincipal",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Prova2SubMenuClientes::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Prova2SubMenuClientes-Debug-f493cfd16d13750db2ca.json",
-					"name" : "Prova2SubMenuClientes",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Prova2SubMenuProdutos::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Prova2SubMenuProdutos-Debug-d6ea7c27356e763e428f.json",
-					"name" : "Prova2SubMenuProdutos",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Prova2SubMenuVendas::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Prova2SubMenuVendas-Debug-4722a95fb1ad5a35c296.json",
-					"name" : "Prova2SubMenuVendas",
+					"id" : "Prova2MenuPrincipal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prova2MenuPrincipal-Debug-d6705110cf8cb2c0e56f.json",
+					"name" : "Prova2MenuPrincipal",
 					"projectIndex" : 0
 				}
 			]

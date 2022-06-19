@@ -1724,136 +1724,37 @@ build Aula06ExercicioDeFixacao06.exe: C_EXECUTABLE_LINKER__Aula06ExercicioDeFixa
   TARGET_PDB = Aula06ExercicioDeFixacao06.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target Prova2ProgramaPrincipal
+# Object build statements for EXECUTABLE target Prova2MenuPrincipal
 
 
 #############################################
-# Order-only phony target for Prova2ProgramaPrincipal
+# Order-only phony target for Prova2MenuPrincipal
 
-build cmake_object_order_depends_target_Prova2ProgramaPrincipal: phony || CMakeFiles/Prova2ProgramaPrincipal.dir
+build cmake_object_order_depends_target_Prova2MenuPrincipal: phony || CMakeFiles/Prova2MenuPrincipal.dir
 
-build CMakeFiles/Prova2ProgramaPrincipal.dir/Prova2/programaPrincipal.c.obj: C_COMPILER__Prova2ProgramaPrincipal_Debug C$:/Users/Usuário/Documents/MeusProjetos/LaboratorioDeProgramacao/Prova2/programaPrincipal.c || cmake_object_order_depends_target_Prova2ProgramaPrincipal
-  DEP_FILE = CMakeFiles\Prova2ProgramaPrincipal.dir\Prova2\programaPrincipal.c.obj.d
+build CMakeFiles/Prova2MenuPrincipal.dir/Prova2/MenuPrincipal.c.obj: C_COMPILER__Prova2MenuPrincipal_Debug C$:/Users/Usuário/Documents/MeusProjetos/LaboratorioDeProgramacao/Prova2/MenuPrincipal.c || cmake_object_order_depends_target_Prova2MenuPrincipal
+  DEP_FILE = CMakeFiles\Prova2MenuPrincipal.dir\Prova2\MenuPrincipal.c.obj.d
   FLAGS = -g
-  OBJECT_DIR = CMakeFiles\Prova2ProgramaPrincipal.dir
-  OBJECT_FILE_DIR = CMakeFiles\Prova2ProgramaPrincipal.dir\Prova2
+  OBJECT_DIR = CMakeFiles\Prova2MenuPrincipal.dir
+  OBJECT_FILE_DIR = CMakeFiles\Prova2MenuPrincipal.dir\Prova2
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Prova2ProgramaPrincipal
+# Link build statements for EXECUTABLE target Prova2MenuPrincipal
 
 
 #############################################
-# Link the executable Prova2ProgramaPrincipal.exe
+# Link the executable Prova2MenuPrincipal.exe
 
-build Prova2ProgramaPrincipal.exe: C_EXECUTABLE_LINKER__Prova2ProgramaPrincipal_Debug CMakeFiles/Prova2ProgramaPrincipal.dir/Prova2/programaPrincipal.c.obj
+build Prova2MenuPrincipal.exe: C_EXECUTABLE_LINKER__Prova2MenuPrincipal_Debug CMakeFiles/Prova2MenuPrincipal.dir/Prova2/MenuPrincipal.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Prova2ProgramaPrincipal.dir
+  OBJECT_DIR = CMakeFiles\Prova2MenuPrincipal.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Prova2ProgramaPrincipal.exe
-  TARGET_IMPLIB = libProva2ProgramaPrincipal.dll.a
-  TARGET_PDB = Prova2ProgramaPrincipal.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Prova2SubMenuClientes
-
-
-#############################################
-# Order-only phony target for Prova2SubMenuClientes
-
-build cmake_object_order_depends_target_Prova2SubMenuClientes: phony || CMakeFiles/Prova2SubMenuClientes.dir
-
-build CMakeFiles/Prova2SubMenuClientes.dir/Prova2/subMenuClientes.c.obj: C_COMPILER__Prova2SubMenuClientes_Debug C$:/Users/Usuário/Documents/MeusProjetos/LaboratorioDeProgramacao/Prova2/subMenuClientes.c || cmake_object_order_depends_target_Prova2SubMenuClientes
-  DEP_FILE = CMakeFiles\Prova2SubMenuClientes.dir\Prova2\subMenuClientes.c.obj.d
-  FLAGS = -g
-  OBJECT_DIR = CMakeFiles\Prova2SubMenuClientes.dir
-  OBJECT_FILE_DIR = CMakeFiles\Prova2SubMenuClientes.dir\Prova2
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Prova2SubMenuClientes
-
-
-#############################################
-# Link the executable Prova2SubMenuClientes.exe
-
-build Prova2SubMenuClientes.exe: C_EXECUTABLE_LINKER__Prova2SubMenuClientes_Debug CMakeFiles/Prova2SubMenuClientes.dir/Prova2/subMenuClientes.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Prova2SubMenuClientes.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Prova2SubMenuClientes.exe
-  TARGET_IMPLIB = libProva2SubMenuClientes.dll.a
-  TARGET_PDB = Prova2SubMenuClientes.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Prova2SubMenuProdutos
-
-
-#############################################
-# Order-only phony target for Prova2SubMenuProdutos
-
-build cmake_object_order_depends_target_Prova2SubMenuProdutos: phony || CMakeFiles/Prova2SubMenuProdutos.dir
-
-build CMakeFiles/Prova2SubMenuProdutos.dir/Prova2/subMenuProdutos.c.obj: C_COMPILER__Prova2SubMenuProdutos_Debug C$:/Users/Usuário/Documents/MeusProjetos/LaboratorioDeProgramacao/Prova2/subMenuProdutos.c || cmake_object_order_depends_target_Prova2SubMenuProdutos
-  DEP_FILE = CMakeFiles\Prova2SubMenuProdutos.dir\Prova2\subMenuProdutos.c.obj.d
-  FLAGS = -g
-  OBJECT_DIR = CMakeFiles\Prova2SubMenuProdutos.dir
-  OBJECT_FILE_DIR = CMakeFiles\Prova2SubMenuProdutos.dir\Prova2
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Prova2SubMenuProdutos
-
-
-#############################################
-# Link the executable Prova2SubMenuProdutos.exe
-
-build Prova2SubMenuProdutos.exe: C_EXECUTABLE_LINKER__Prova2SubMenuProdutos_Debug CMakeFiles/Prova2SubMenuProdutos.dir/Prova2/subMenuProdutos.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Prova2SubMenuProdutos.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Prova2SubMenuProdutos.exe
-  TARGET_IMPLIB = libProva2SubMenuProdutos.dll.a
-  TARGET_PDB = Prova2SubMenuProdutos.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Prova2SubMenuVendas
-
-
-#############################################
-# Order-only phony target for Prova2SubMenuVendas
-
-build cmake_object_order_depends_target_Prova2SubMenuVendas: phony || CMakeFiles/Prova2SubMenuVendas.dir
-
-build CMakeFiles/Prova2SubMenuVendas.dir/Prova2/subMenuVendas.c.obj: C_COMPILER__Prova2SubMenuVendas_Debug C$:/Users/Usuário/Documents/MeusProjetos/LaboratorioDeProgramacao/Prova2/subMenuVendas.c || cmake_object_order_depends_target_Prova2SubMenuVendas
-  DEP_FILE = CMakeFiles\Prova2SubMenuVendas.dir\Prova2\subMenuVendas.c.obj.d
-  FLAGS = -g
-  OBJECT_DIR = CMakeFiles\Prova2SubMenuVendas.dir
-  OBJECT_FILE_DIR = CMakeFiles\Prova2SubMenuVendas.dir\Prova2
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Prova2SubMenuVendas
-
-
-#############################################
-# Link the executable Prova2SubMenuVendas.exe
-
-build Prova2SubMenuVendas.exe: C_EXECUTABLE_LINKER__Prova2SubMenuVendas_Debug CMakeFiles/Prova2SubMenuVendas.dir/Prova2/subMenuVendas.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Prova2SubMenuVendas.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Prova2SubMenuVendas.exe
-  TARGET_IMPLIB = libProva2SubMenuVendas.dll.a
-  TARGET_PDB = Prova2SubMenuVendas.exe.dbg
+  TARGET_FILE = Prova2MenuPrincipal.exe
+  TARGET_IMPLIB = libProva2MenuPrincipal.dll.a
+  TARGET_PDB = Prova2MenuPrincipal.exe.dbg
 
 
 #############################################
@@ -1983,13 +1884,7 @@ build Aula06ExercicioDeFixacao01: phony Aula06ExercicioDeFixacao01.exe
 
 build Aula06ExercicioDeFixacao06: phony Aula06ExercicioDeFixacao06.exe
 
-build Prova2ProgramaPrincipal: phony Prova2ProgramaPrincipal.exe
-
-build Prova2SubMenuClientes: phony Prova2SubMenuClientes.exe
-
-build Prova2SubMenuProdutos: phony Prova2SubMenuProdutos.exe
-
-build Prova2SubMenuVendas: phony Prova2SubMenuVendas.exe
+build Prova2MenuPrincipal: phony Prova2MenuPrincipal.exe
 
 # =============================================================================
 # Folder targets.
@@ -1999,7 +1894,7 @@ build Prova2SubMenuVendas: phony Prova2SubMenuVendas.exe
 #############################################
 # Folder: C:/Users/Usuário/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug
 
-build all: phony Aula01ExercicioDeFixacao01.exe Aula01ExercicioDeFixacao02.exe Aula01ExercicioDeFixacao03.exe Aula01ExercicioDeFixacao04.exe Aula01ExercicioDeFixacao05.exe Aula01ExercicioDeFixacao06.exe Aula01ExercicioDeFixacao07.exe Aula01ExercicioDeFixacao08_0.exe Aula01ExercicioDeFixacao08_1.exe Aula01ExercicioDeFixacao09_0.exe Aula01ExercicioDeFixacao09_1.exe Aula01ExercicioDeFixacao10_0.exe Aula01ExercicioDeFixacao10_1.exe Aula01ExercicioDeFixacao10_2.exe Aula01ExercicioDeFixacao11_0.exe Aula01ExercicioDeFixacao11_1.exe Aula01ExercicioDeFixacao12.exe Aula01ExercicioDeFixacao13.exe Aula02ExercicioDeFixacao02.exe Aula02ExercicioDeFixacao03.exe Aula02ExercicioDeFixacao04.exe Aula02ExercicioDeFixacao05.exe Aula02ExercicioDeFixacao06.exe Aula02ExercicioDeFixacao07.exe Aula02ExercicioDeFixacao08.exe Aula02ExercicioDeFixacao09.exe Aula02ExercicioDeFixacao10.exe Aula02ExercicioDeFixacao11.exe Aula02ExercicioDeFixacao12.exe Aula02ExercicioDeFixacao13_0.exe Aula02ExercicioDeFixacao13_1.exe Aula02ExercicioDeFixacao14.exe Aula03ExercicioDeFixacao01.exe Aula03ExercicioDeFixacao02.exe Aula03ExercicioDeFixacao03.exe Aula03ExercicioDeFixacao04.exe Aula03ExercicioDeFixacao05.exe Aula04ExercicioDeFixacao01.exe Aula04ExercicioDeFixacao02.exe Aula04ExercicioDeFixacao03.exe Aula04ExercicioDeFixacao12.exe Aula04ExercicioDeFixacao13.exe Aula04ExercicioDeFixacao16.exe Aula04ExercicioDeFixacao22.exe Aula04ExercicioDeFixacao23.exe Aula04ExercicioDeFixacao24.exe Aula04ExercicioDeFixacao27.exe Aula05ExercicioDeFixacao10.exe Aula05ExercicioDeFixacao11.exe Aula06ExercicioDeFixacao01.exe Aula06ExercicioDeFixacao06.exe Prova2ProgramaPrincipal.exe Prova2SubMenuClientes.exe Prova2SubMenuProdutos.exe Prova2SubMenuVendas.exe
+build all: phony Aula01ExercicioDeFixacao01.exe Aula01ExercicioDeFixacao02.exe Aula01ExercicioDeFixacao03.exe Aula01ExercicioDeFixacao04.exe Aula01ExercicioDeFixacao05.exe Aula01ExercicioDeFixacao06.exe Aula01ExercicioDeFixacao07.exe Aula01ExercicioDeFixacao08_0.exe Aula01ExercicioDeFixacao08_1.exe Aula01ExercicioDeFixacao09_0.exe Aula01ExercicioDeFixacao09_1.exe Aula01ExercicioDeFixacao10_0.exe Aula01ExercicioDeFixacao10_1.exe Aula01ExercicioDeFixacao10_2.exe Aula01ExercicioDeFixacao11_0.exe Aula01ExercicioDeFixacao11_1.exe Aula01ExercicioDeFixacao12.exe Aula01ExercicioDeFixacao13.exe Aula02ExercicioDeFixacao02.exe Aula02ExercicioDeFixacao03.exe Aula02ExercicioDeFixacao04.exe Aula02ExercicioDeFixacao05.exe Aula02ExercicioDeFixacao06.exe Aula02ExercicioDeFixacao07.exe Aula02ExercicioDeFixacao08.exe Aula02ExercicioDeFixacao09.exe Aula02ExercicioDeFixacao10.exe Aula02ExercicioDeFixacao11.exe Aula02ExercicioDeFixacao12.exe Aula02ExercicioDeFixacao13_0.exe Aula02ExercicioDeFixacao13_1.exe Aula02ExercicioDeFixacao14.exe Aula03ExercicioDeFixacao01.exe Aula03ExercicioDeFixacao02.exe Aula03ExercicioDeFixacao03.exe Aula03ExercicioDeFixacao04.exe Aula03ExercicioDeFixacao05.exe Aula04ExercicioDeFixacao01.exe Aula04ExercicioDeFixacao02.exe Aula04ExercicioDeFixacao03.exe Aula04ExercicioDeFixacao12.exe Aula04ExercicioDeFixacao13.exe Aula04ExercicioDeFixacao16.exe Aula04ExercicioDeFixacao22.exe Aula04ExercicioDeFixacao23.exe Aula04ExercicioDeFixacao24.exe Aula04ExercicioDeFixacao27.exe Aula05ExercicioDeFixacao10.exe Aula05ExercicioDeFixacao11.exe Aula06ExercicioDeFixacao01.exe Aula06ExercicioDeFixacao06.exe Prova2MenuPrincipal.exe
 
 # =============================================================================
 # Built-in targets
