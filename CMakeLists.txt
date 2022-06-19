@@ -54,4 +54,7 @@ add_executable(Aula05ExercicioDeFixacao10 Aula05/ExercicioDeFixacao10/ExercicioD
 add_executable(Aula05ExercicioDeFixacao11 Aula05/ExercicioDeFixacao11/ExercicioDeFixacao11.c)
 add_executable(Aula06ExercicioDeFixacao01 Aula06/ExercicioDeFixacao01/ExercicioDeFixacao01.c)
 add_executable(Aula06ExercicioDeFixacao06 Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c)
-add_executable(Prova2 Prova2/Main_Program.c)
+add_executable(Prova2ProgramaPrincipal Prova2/programaPrincipal.c)
+add_executable(Prova2SubMenuClientes Prova2/subMenuClientes.c)
+add_executable(Prova2SubMenuProdutos Prova2/subMenuProdutos.c)
+add_executable(Prova2SubMenuVendas Prova2/subMenuVendas.c)

@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Prova2.exe"
+			"path" : "Prova2ProgramaPrincipal.exe"
 		},
 		{
-			"path" : "Prova2.pdb"
+			"path" : "Prova2ProgramaPrincipal.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -48,7 +48,7 @@
 			]
 		}
 	],
-	"id" : "Prova2::@6890427a1f51a3e7e1df",
+	"id" : "Prova2ProgramaPrincipal::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -68,8 +68,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Prova2",
-	"nameOnDisk" : "Prova2.exe",
+	"name" : "Prova2ProgramaPrincipal",
+	"nameOnDisk" : "Prova2ProgramaPrincipal.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -90,7 +90,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Prova2/Main_Program.c",
+			"path" : "Prova2/programaPrincipal.c",
 			"sourceGroupIndex" : 0
 		}
 	],
