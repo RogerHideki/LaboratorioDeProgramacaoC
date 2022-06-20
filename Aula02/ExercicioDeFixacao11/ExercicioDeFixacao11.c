@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
     float valor;
     int codigo;
 
@@ -16,7 +16,7 @@ int main(){
     printf("\nDigite um código de desconto: ");
     scanf(" %d", &codigo);
 
-    switch(codigo){
+    switch (codigo) {
         case 33:
             valor = valor * 0.90;
             break;
@@ -29,7 +29,8 @@ int main(){
             else
                 valor = valor * 0.75;
             break;
-        default : printf("\nDesconto inválido");
+        default :
+            printf("\nDesconto inválido");
     }
 
     printf("\nValor do produto: R$ %.2f \n", valor);

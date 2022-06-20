@@ -1,62 +1,75 @@
 #include <stdio.h>
+#include <stdbool.h>
 #include <stdlib.h>
 #include <windows.h>
 
-void menuVendas() {
+void menu1() {
     //Imprime o menu de vendas
-    printf("1. Cadastrar uma nova venda");
-    printf("2. Listar compras do cliente");
-    printf("9. Sair");
+    printf("1. Cadastrar uma nova venda\n");
+    printf("2. Listar compras de um cliente\n");
+    printf("9. Sair\n");
 }
-void menuClientes() {
+
+void menu2() {
     //Imprime o menu de clientes
-    printf("1. Cadastrar novo cliente");
-    printf("2. Atualizar pontuação");
-    printf("3. Atualizar cliente");
-    printf("4. Mostrar a quantidade de clientes entre 18 e 25 anos");
-    printf("5. Listar clientes com mais de 1000 pontos");
-    printf("9. Sair");
+    printf("1. Cadastrar um novo cliente\n");
+    printf("2. Atualizar pontuação de um cliente\n");
+    printf("3. Atualizar dados de um cliente\n");
+    printf("4. Mostrar a quantidade de clientes com idade entre 18 e 25 anos\n");
+    printf("5. Listar clientes com mais de 1000 pontos\n");
+    printf("9. Sair\n");
 }
-void menuProdutos() {
+
+void menu3() {
     //Imprime o menu de produtos
-    printf("1. Cadastrar novo produto");
-    printf("2. Alterar dados de um produto");
-    printf("3. Listar produtos por setor");
-    printf("4. Listar produtos com estoque abaixo de 5");
-    printf("9. Sair");
+    printf("1. Cadastrar um novo produto\n");
+    printf("2. Alterar dados de um produto\n");
+    printf("3. Listar estoque de produtos por setor\n");
+    printf("4. Listar produtos com estoque abaixo de 5\n");
+    printf("9. Sair\n");
 }
+
 int main() {
     SetConsoleOutputCP(65001);
 
     //Variáveis locais
     int opcao;
+    bool valido;
 
-    //Imprime o menu principal
-    printf("1. Vendas");
-    printf("2. Clientes");
-    printf("3. Produtos");
-    printf("9. Sair");
+    valido = false;
+    while (!valido) {
+        valido = true;
 
-    //Pede uma opção, anota a opção escolhida e depois limpa a tela
-    printf("Digite uma opção: ");
-    scanf(" %c", opcao);
-    system("cls");
+        //Imprime o menu principal
+        printf("1. Vendas\n");
+        printf("2. Clientes\n");
+        printf("3. Produtos\n");
+        printf("9. Sair\n");
 
-    //Seleciona a opção escolhida
-    switch(opcao){
-        case '1':
-            menuVendas();
-            break;
-        case '2':
-            menuClientes();
-            break;
-        case '3':
-            menuProdutos();
-            break;
-        case '9':
-            printf("Programa finalizado");
-            break;
-        default:
-            printf("Opção inválida");
+        //Pede uma opção, anota a opção escolhida e depois limpa a tela
+        printf("\nDigite uma opção: ");
+        scanf(" %d", &opcao);
+        system("cls");
+
+        //Seleciona a opção escolhida
+        switch (opcao) {
+            case 1:
+                menu1();
+                break;
+            case 2:
+                menu2();
+                break;
+            case 3:
+                menu3();
+                break;
+            case 9:
+                printf("Programa finalizado\n");
+                break;
+            default:
+                printf("Opção inválida\n\n");
+                valido = false;
+        }
     }
+
+    return 0;
 }
