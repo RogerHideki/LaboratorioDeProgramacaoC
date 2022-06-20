@@ -3,25 +3,27 @@
 #include <stdlib.h>
 #include <windows.h>
 
-typedef enum tSetor { TRABALHO=1, INICIACAO, PESQUISA} Bolsa;
-
-typedef struct tValidade {
+typedef struct tData {
     int dia, mes, ano;
-} tValidade;
+} tData;
 
 typedef struct tProduto {
     int codigo, estoque;
     char setor[20], nome[50];
     double preco;
-    tValidade validade;
+    tData validade;
 } tProduto;
 
 typedef struct tCliente {
-
+    char cpf[13], nome[50], endereco[50], cidade[50], estado[2];
+    tData dataNascimento;
+    int idade, pontos;
 } tCliente;
 
 typedef struct tVenda {
-
+    int codigo, cpfCliente , quantidadeProdutos;
+    tData dataCompra;
+    float precoTotal;
 } tVenda;
 
 void menu1() {
