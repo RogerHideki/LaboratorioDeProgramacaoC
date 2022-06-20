@@ -3,12 +3,19 @@
 #include <stdlib.h>
 #include <windows.h>
 
-typedef struct tProduto {
+typedef enum tSetor { TRABALHO=1, INICIACAO, PESQUISA} Bolsa;
 
-} tProduto;
-    int codigo, validade, estoque;
+typedef struct tValidade {
+    int dia, mes, ano;
+} tValidade;
+
+typedef struct tProduto {
+    int codigo, estoque;
     char setor[20], nome[50];
     double preco;
+    tValidade validade;
+} tProduto;
+
 typedef struct tCliente {
 
 } tCliente;
