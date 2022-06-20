@@ -1,0 +1,519 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LaboratorioDeProgramacao",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao01-Debug-3a2e8866ef8338c88e8e.json",
+					"name" : "Aula01ExercicioDeFixacao01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao02-Debug-90716a5b3a99d5c75b1c.json",
+					"name" : "Aula01ExercicioDeFixacao02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao03-Debug-895c85027695aec3a471.json",
+					"name" : "Aula01ExercicioDeFixacao03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao04-Debug-c39b82208f9d2b4cc179.json",
+					"name" : "Aula01ExercicioDeFixacao04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao05-Debug-f7c86cefd500a024997d.json",
+					"name" : "Aula01ExercicioDeFixacao05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao06-Debug-41b93c134732856c34c6.json",
+					"name" : "Aula01ExercicioDeFixacao06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao07::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao07-Debug-ad993045bbef830e5f51.json",
+					"name" : "Aula01ExercicioDeFixacao07",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao08_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao08_0-Debug-31e49a760d049d0d8290.json",
+					"name" : "Aula01ExercicioDeFixacao08_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao08_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao08_1-Debug-9cb915821bb9eddc581b.json",
+					"name" : "Aula01ExercicioDeFixacao08_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao09_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao09_0-Debug-1171cf88d2727a98eb2c.json",
+					"name" : "Aula01ExercicioDeFixacao09_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao09_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao09_1-Debug-9f97a438225a2950237a.json",
+					"name" : "Aula01ExercicioDeFixacao09_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao10_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao10_0-Debug-e37ab505f47263ad6d24.json",
+					"name" : "Aula01ExercicioDeFixacao10_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao10_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao10_1-Debug-6fefd9268868d8743420.json",
+					"name" : "Aula01ExercicioDeFixacao10_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao10_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao10_2-Debug-6ec4237ae6755df2c7e8.json",
+					"name" : "Aula01ExercicioDeFixacao10_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao11_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao11_0-Debug-dd10ebffff3552ae4c61.json",
+					"name" : "Aula01ExercicioDeFixacao11_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao11_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao11_1-Debug-3e7c80f4e563f3c3da32.json",
+					"name" : "Aula01ExercicioDeFixacao11_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao12-Debug-009a2cc3deead98d4f7b.json",
+					"name" : "Aula01ExercicioDeFixacao12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula01ExercicioDeFixacao13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula01ExercicioDeFixacao13-Debug-089f443290df83d9d5c7.json",
+					"name" : "Aula01ExercicioDeFixacao13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao02-Debug-9353b2105bd2bc0dd886.json",
+					"name" : "Aula02ExercicioDeFixacao02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao03-Debug-827514dbe3f5629f288a.json",
+					"name" : "Aula02ExercicioDeFixacao03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao04-Debug-dbe9476fea4260002f0f.json",
+					"name" : "Aula02ExercicioDeFixacao04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao05-Debug-03bc682e0dd4803f8d86.json",
+					"name" : "Aula02ExercicioDeFixacao05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao06-Debug-f81b96f71dcc86e72666.json",
+					"name" : "Aula02ExercicioDeFixacao06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao07::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao07-Debug-9531bba19add89bbb894.json",
+					"name" : "Aula02ExercicioDeFixacao07",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao08::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao08-Debug-3714aa6829dce28864b1.json",
+					"name" : "Aula02ExercicioDeFixacao08",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao09::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao09-Debug-0c0596ca00a51eb34608.json",
+					"name" : "Aula02ExercicioDeFixacao09",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao10-Debug-0c1839199c824066a0d1.json",
+					"name" : "Aula02ExercicioDeFixacao10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao11-Debug-1b909867873c20811186.json",
+					"name" : "Aula02ExercicioDeFixacao11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao12-Debug-7dca8c6622da01d8ad67.json",
+					"name" : "Aula02ExercicioDeFixacao12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao13_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao13_0-Debug-564c200b27bc117ba73e.json",
+					"name" : "Aula02ExercicioDeFixacao13_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao13_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao13_1-Debug-6610fc07768108541b4c.json",
+					"name" : "Aula02ExercicioDeFixacao13_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula02ExercicioDeFixacao14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula02ExercicioDeFixacao14-Debug-112e1e5b00d28be12158.json",
+					"name" : "Aula02ExercicioDeFixacao14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula03ExercicioDeFixacao01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula03ExercicioDeFixacao01-Debug-b348cdb5f25ced3853b9.json",
+					"name" : "Aula03ExercicioDeFixacao01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula03ExercicioDeFixacao02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula03ExercicioDeFixacao02-Debug-0bd3cd71f38f1a3d7cb7.json",
+					"name" : "Aula03ExercicioDeFixacao02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula03ExercicioDeFixacao03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula03ExercicioDeFixacao03-Debug-5c2b4f102bd4f4b0e79f.json",
+					"name" : "Aula03ExercicioDeFixacao03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula03ExercicioDeFixacao04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula03ExercicioDeFixacao04-Debug-15cb75af971dae21b51d.json",
+					"name" : "Aula03ExercicioDeFixacao04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula03ExercicioDeFixacao05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula03ExercicioDeFixacao05-Debug-34157cf722f95c3d31cd.json",
+					"name" : "Aula03ExercicioDeFixacao05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula04ExercicioDeFixacao01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula04ExercicioDeFixacao01-Debug-cf312d0b2d64a8206093.json",
+					"name" : "Aula04ExercicioDeFixacao01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula04ExercicioDeFixacao02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula04ExercicioDeFixacao02-Debug-9a6e7d9334572618d24e.json",
+					"name" : "Aula04ExercicioDeFixacao02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula04ExercicioDeFixacao03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula04ExercicioDeFixacao03-Debug-27a720f3f23677484ab9.json",
+					"name" : "Aula04ExercicioDeFixacao03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula04ExercicioDeFixacao12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula04ExercicioDeFixacao12-Debug-589a81d62df433d772b6.json",
+					"name" : "Aula04ExercicioDeFixacao12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula04ExercicioDeFixacao13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula04ExercicioDeFixacao13-Debug-1703aa7c390528c0c4b9.json",
+					"name" : "Aula04ExercicioDeFixacao13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula04ExercicioDeFixacao16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula04ExercicioDeFixacao16-Debug-f3492c0130f08e3ce230.json",
+					"name" : "Aula04ExercicioDeFixacao16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula04ExercicioDeFixacao22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula04ExercicioDeFixacao22-Debug-88fbe8f932958402b4b7.json",
+					"name" : "Aula04ExercicioDeFixacao22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula04ExercicioDeFixacao23::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula04ExercicioDeFixacao23-Debug-134957d552de220ec421.json",
+					"name" : "Aula04ExercicioDeFixacao23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula04ExercicioDeFixacao24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula04ExercicioDeFixacao24-Debug-de7a0880c7862782b73b.json",
+					"name" : "Aula04ExercicioDeFixacao24",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula04ExercicioDeFixacao27::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula04ExercicioDeFixacao27-Debug-bfc8d3d0a6317b16cef2.json",
+					"name" : "Aula04ExercicioDeFixacao27",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula05ExercicioDeFixacao10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula05ExercicioDeFixacao10-Debug-bde08f12c05091ba14ff.json",
+					"name" : "Aula05ExercicioDeFixacao10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula05ExercicioDeFixacao11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula05ExercicioDeFixacao11-Debug-1ddc30d31009de437315.json",
+					"name" : "Aula05ExercicioDeFixacao11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula06ExercicioDeFixacao01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula06ExercicioDeFixacao01-Debug-07fb441e8dff044f15b5.json",
+					"name" : "Aula06ExercicioDeFixacao01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aula06ExercicioDeFixacao06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aula06ExercicioDeFixacao06-Debug-f7517c26de07b5a3b64c.json",
+					"name" : "Aula06ExercicioDeFixacao06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Prova2MenuPrincipal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prova2MenuPrincipal-Debug-d6705110cf8cb2c0e56f.json",
+					"name" : "Prova2MenuPrincipal",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug",
+		"source" : "C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

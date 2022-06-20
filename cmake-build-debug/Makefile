@@ -778,6 +778,19 @@ Aula06ExercicioDeFixacao06/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Aula06ExercicioDeFixacao06.dir\build.make CMakeFiles/Aula06ExercicioDeFixacao06.dir/build
 .PHONY : Aula06ExercicioDeFixacao06/fast
 
+#=============================================================================
+# Target rules for targets named Prova2MenuPrincipal
+
+# Build rule for target.
+Prova2MenuPrincipal: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Prova2MenuPrincipal
+.PHONY : Prova2MenuPrincipal
+
+# fast build rule for target.
+Prova2MenuPrincipal/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Prova2MenuPrincipal.dir\build.make CMakeFiles/Prova2MenuPrincipal.dir/build
+.PHONY : Prova2MenuPrincipal/fast
+
 Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.obj: Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.c.obj
 .PHONY : Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.obj
 
@@ -2002,6 +2015,30 @@ Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Aula06ExercicioDeFixacao06.dir\build.make CMakeFiles/Aula06ExercicioDeFixacao06.dir/Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.s
 .PHONY : Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.c.s
 
+Prova2/MenuPrincipal.obj: Prova2/MenuPrincipal.c.obj
+.PHONY : Prova2/MenuPrincipal.obj
+
+# target to build an object file
+Prova2/MenuPrincipal.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Prova2MenuPrincipal.dir\build.make CMakeFiles/Prova2MenuPrincipal.dir/Prova2/MenuPrincipal.c.obj
+.PHONY : Prova2/MenuPrincipal.c.obj
+
+Prova2/MenuPrincipal.i: Prova2/MenuPrincipal.c.i
+.PHONY : Prova2/MenuPrincipal.i
+
+# target to preprocess a source file
+Prova2/MenuPrincipal.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Prova2MenuPrincipal.dir\build.make CMakeFiles/Prova2MenuPrincipal.dir/Prova2/MenuPrincipal.c.i
+.PHONY : Prova2/MenuPrincipal.c.i
+
+Prova2/MenuPrincipal.s: Prova2/MenuPrincipal.c.s
+.PHONY : Prova2/MenuPrincipal.s
+
+# target to generate assembly for a file
+Prova2/MenuPrincipal.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Prova2MenuPrincipal.dir\build.make CMakeFiles/Prova2MenuPrincipal.dir/Prova2/MenuPrincipal.c.s
+.PHONY : Prova2/MenuPrincipal.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -2061,6 +2098,7 @@ help:
 	@echo ... Aula05ExercicioDeFixacao11
 	@echo ... Aula06ExercicioDeFixacao01
 	@echo ... Aula06ExercicioDeFixacao06
+	@echo ... Prova2MenuPrincipal
 	@echo ... Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.obj
 	@echo ... Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.i
 	@echo ... Aula01/ExercicioDeFixacao01/ExercicioDeFixacao01.s
@@ -2214,6 +2252,9 @@ help:
 	@echo ... Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.obj
 	@echo ... Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.i
 	@echo ... Aula06/ExercicioDeFixacao06/ExercicioDeFixacao06.s
+	@echo ... Prova2/MenuPrincipal.obj
+	@echo ... Prova2/MenuPrincipal.i
+	@echo ... Prova2/MenuPrincipal.s
 .PHONY : help
 
 

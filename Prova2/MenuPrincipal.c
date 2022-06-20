@@ -3,6 +3,20 @@
 #include <stdlib.h>
 #include <windows.h>
 
+typedef struct tProduto {
+
+} tProduto;
+    int codigo, validade, estoque;
+    char setor[20], nome[50];
+    double preco;
+typedef struct tCliente {
+
+} tCliente;
+
+typedef struct tVenda {
+
+} tVenda;
+
 void menu1() {
     //Imprime o menu de vendas
     printf("1. Cadastrar uma nova venda\n");
