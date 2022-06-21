@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao
+# Install script for directory: C:/Users/Usuário/Documents/MeusProjetos/LaboratorioDeProgramacao
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/roger/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Usuário/Documents/MeusProjetos/LaboratorioDeProgramacao/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

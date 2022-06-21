@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2022.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Prova2MenuPrincipal.dir/objects.a
-C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\Prova2MenuPrincipal.dir/objects.a @CMakeFiles\Prova2MenuPrincipal.dir\objects1.rsp
-C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Prova2MenuPrincipal.dir/objects.a -Wl,--no-whole-archive -o Prova2MenuPrincipal.exe -Wl,--out-implib,libProva2MenuPrincipal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Prova2MenuPrincipal.dir\linklibs.rsp
