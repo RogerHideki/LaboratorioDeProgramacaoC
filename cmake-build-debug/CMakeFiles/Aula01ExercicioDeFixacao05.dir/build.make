@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2022.1.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao
+CMAKE_SOURCE_DIR = C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Aula01ExercicioDeFixacao05.dir/depend.make
@@ -71,16 +71,16 @@ include CMakeFiles/Aula01ExercicioDeFixacao05.dir/flags.make
 CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c.obj: CMakeFiles/Aula01ExercicioDeFixacao05.dir/flags.make
 CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c.obj: ../Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c
 CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c.obj: CMakeFiles/Aula01ExercicioDeFixacao05.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c.obj -MF CMakeFiles\Aula01ExercicioDeFixacao05.dir\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c.obj.d -o CMakeFiles\Aula01ExercicioDeFixacao05.dir\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c.obj -c C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c.obj -MF CMakeFiles\Aula01ExercicioDeFixacao05.dir\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c.obj.d -o CMakeFiles\Aula01ExercicioDeFixacao05.dir\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c.obj -c C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c
 
 CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c > CMakeFiles\Aula01ExercicioDeFixacao05.dir\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c > CMakeFiles\Aula01ExercicioDeFixacao05.dir\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c.i
 
 CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Aula01ExercicioDeFixacao05.dir/Aula01/ExercicioDeFixacao05/ExercicioDeFixacao05.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c -o CMakeFiles\Aula01ExercicioDeFixacao05.dir\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c -o CMakeFiles\Aula01ExercicioDeFixacao05.dir\Aula01\ExercicioDeFixacao05\ExercicioDeFixacao05.c.s
 
 # Object files for target Aula01ExercicioDeFixacao05
 Aula01ExercicioDeFixacao05_OBJECTS = \
@@ -94,7 +94,7 @@ Aula01ExercicioDeFixacao05.exe: CMakeFiles/Aula01ExercicioDeFixacao05.dir/build.
 Aula01ExercicioDeFixacao05.exe: CMakeFiles/Aula01ExercicioDeFixacao05.dir/linklibs.rsp
 Aula01ExercicioDeFixacao05.exe: CMakeFiles/Aula01ExercicioDeFixacao05.dir/objects1.rsp
 Aula01ExercicioDeFixacao05.exe: CMakeFiles/Aula01ExercicioDeFixacao05.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Aula01ExercicioDeFixacao05.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Aula01ExercicioDeFixacao05.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Aula01ExercicioDeFixacao05.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -106,6 +106,6 @@ CMakeFiles/Aula01ExercicioDeFixacao05.dir/clean:
 .PHONY : CMakeFiles/Aula01ExercicioDeFixacao05.dir/clean
 
 CMakeFiles/Aula01ExercicioDeFixacao05.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug C:\Users\RogerHideki\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug\CMakeFiles\Aula01ExercicioDeFixacao05.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug C:\Users\roger\Documents\MeusProjetos\LaboratorioDeProgramacao\cmake-build-debug\CMakeFiles\Aula01ExercicioDeFixacao05.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Aula01ExercicioDeFixacao05.dir/depend
 
