@@ -1,2 +1,2 @@
 # LaboratorioDeProgramacao
- Exercícios de Laboratório de Programação
+ Exercícios de Laboratório de Programação em C
