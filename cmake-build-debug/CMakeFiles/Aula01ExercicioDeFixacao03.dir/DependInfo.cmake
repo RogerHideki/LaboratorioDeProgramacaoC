@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/RogerHideki/Documents/MeusProjetos/LaboratorioDeProgramacao/Aula01/ExercicioDeFixacao03/ExercicioDeFixacao03.c" "CMakeFiles/Aula01ExercicioDeFixacao03.dir/Aula01/ExercicioDeFixacao03/ExercicioDeFixacao03.c.obj" "gcc" "CMakeFiles/Aula01ExercicioDeFixacao03.dir/Aula01/ExercicioDeFixacao03/ExercicioDeFixacao03.c.obj.d"
+  "C:/Users/roger/CLionProjects/MercadoDoBairro/LaboratorioDeProgramacaoC/Aula01/ExercicioDeFixacao03/ExercicioDeFixacao03.c" "CMakeFiles/Aula01ExercicioDeFixacao03.dir/Aula01/ExercicioDeFixacao03/ExercicioDeFixacao03.c.obj" "gcc" "CMakeFiles/Aula01ExercicioDeFixacao03.dir/Aula01/ExercicioDeFixacao03/ExercicioDeFixacao03.c.obj.d"
   )
 
 # Targets to which this target links.
